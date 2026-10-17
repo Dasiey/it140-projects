@@ -10,6 +10,7 @@ rooms = {
 
 
 # TODO: Set the player's starting room for the simplified prototype.
+current_room = "Great Hall"
 
 # TODO: Create the gameplay loop required by the milestone.
 # Within the loop, complete the required behavior in small steps:
